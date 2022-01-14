@@ -1,2 +1,4 @@
-*.ini
-.ipynb_checkpoints
+/ingest*
+/staging_area*
+/dwh*
+*.gslides
