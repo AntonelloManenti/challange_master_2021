@@ -14,7 +14,10 @@ Challange at Master Business Intelligence & Big Data Analytics during Business I
 - sentiment analysis
 - social network analysis of linguistic iterations between users
 
+![challange_master_2021](https://github.com/AntonelloManenti/challange_master_2021/blob/feb003ffb7e51d29ffbaffb66b554887000275c5/img/euro2020.PNG)
+
 ---
+
 ### Useful links
 [Colab notebook](https://drive.google.com/file/d/1fU-xJSgHgQ_OxWRDIzEZprhot060XM6n/view?usp=sharing) | [Dataset](https://drive.google.com/file/d/1-CbMKWnTCTPvp8FWcZMqot_oGQ8i1hgq/view?usp=sharing) (raw - 213.6 mb) | [File for Gephi](https://drive.google.com/file/d/1NUWhXWUNbGx6oNlsYfxyomIBp3dUuXid/view?usp=sharing)
 
