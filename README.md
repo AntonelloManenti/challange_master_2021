@@ -29,4 +29,4 @@ Challange at Master Business Intelligence & Big Data Analytics during Business I
 
 ---
 ### License
-[MIT](https://choosealicense.com/licenses/mit/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/LICENSE)
